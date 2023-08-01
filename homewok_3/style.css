@@ -1,0 +1,16 @@
+.header_text{
+    font-weight: 48px;
+    text-align: center;
+}
+
+.main_text{
+    text-align: left;
+}
+
+.header_text, .main_text{
+    color: white;
+}
+
+body{
+    background: green;
+}
